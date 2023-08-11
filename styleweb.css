@@ -21,3 +21,7 @@ form{
     flex-direction: column;
     gap: 10px;
 }
+
+label{
+    font-weight: bold;
+}
